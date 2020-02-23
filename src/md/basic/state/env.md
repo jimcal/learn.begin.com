@@ -17,7 +17,7 @@ Environment variables allow us to parameterize sensitive state like third party 
 
 | Application name  | Homepage URL                      | Authorization callback URL               |
 |------------------ |---------------------------------- |----------------------------------------- |
-| My App Local      | &nbsp;                            | http://localhost:3333/login              |
+| My App Local      | http://localhost:3333                            | http://localhost:3333/login              |
 | My App Staging    | https://foo-123-staging.begin.app | https://foo-123-staging.begin.app/login  | 
 | My App Production | https://foo-123.begin.app         | https://foo-123.begin.app/login          |
 
