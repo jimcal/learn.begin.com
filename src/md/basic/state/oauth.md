@@ -180,6 +180,8 @@ exports.handler = arc.http.async(logout)
 
 ### 8. Preview by starting the dev server
 
+> Don't forget to get back to top level of your project before you attempt to run `npm start`.
+
 ```bash
 npm start
 ```
